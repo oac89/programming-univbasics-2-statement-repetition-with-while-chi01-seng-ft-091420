@@ -1,4 +1,4 @@
-while do
+while (condition) do
 
 end
 
