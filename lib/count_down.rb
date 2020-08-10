@@ -1,6 +1,7 @@
-while (condition) do
-  
+while do
+
 end
+
 count = 10 
 while count >= 1 do
   
